@@ -1,0 +1,31 @@
+	meter	source	statement	context	tags	true	mostly-true	half-true	barely-true	false	pants-fire
+0	half-true	Instagram posts	"""Kyle Rittenhouse used his COVID-19 stimulus check to purchase the AR-15 he used in the fatal Kenosha shooting."""	an Instagram post	['Criminal Justice', 'Guns', 'Wisconsin', 'Instagram posts']	1	0	4	9	31	12
+1	false	Robin Vos	“We passed one of the first (COVID-19) bills in the entire country, empowering Gov. Evers to act.”	Interview	['Legal Issues', 'Wisconsin', 'Coronavirus', 'Robin Vos']	1	7	4	3	5	1
+2	false	Instagram posts	Video shows movers carrying boxes out of the White House as President Trump discusses 2020 election results.	an Instagram post	['Legal Issues', 'Wisconsin', 'Coronavirus', 'Robin Vos']	1	7	4	3	5	1
+3	false	Facebook posts	Dominion and Smartmatic “have closed up shop” and executives are “on the run.”	a post	['National', 'Elections', 'Facebook Fact-checks', 'Facebook posts']	18	39	72	109	530	260
+4	mostly-false	Viral image	“Pennsylvania just banned alcohol sales.”	a Facebook post	['Facebook Fact-checks', 'Coronavirus', 'Viral image']	3	8	22	39	292	188
+5	false	Viral image	Photo shows “Biden’s inaugural stage being built on the White House North Lawn.”	a Facebook post	['Facebook Fact-checks', 'Coronavirus', 'Viral image']	3	8	22	39	292	188
+6	false	Viral image	Says Donald Trump’s sister tweeted, “My brother Don won this election and will fight this to the very end.”	a Facebook post	['Facebook Fact-checks', 'Coronavirus', 'Viral image']	3	8	22	39	292	188
+7	false	Jody Hice	Democrats “spent 4 years refusing to acknowledge Trump’s 2016 victory.”	a tweet	['National', 'Elections', 'Impeachment', 'Jody Hice']	0	0	0	0	2	0
+8	false	Facebook posts	North Carolina Gov. Roy Cooper’s “daughter is having a big wedding today. 500 people. Then going to lock you down on Monday.”	a Facebook post	['National', 'Elections', 'Impeachment', 'Jody Hice']	0	0	0	0	2	0
+9	fire	Donald Trump	“In certain swing states, there were more votes than people who voted, and in big numbers.”	a tweet	['Arizona', 'Georgia', 'National', 'Nevada', 'Elections', 'Wisconsin', 'Pennsylvania', 'Michigan', 'Donald Trump']	35	84	119	186	333	154
+10	fire	David Perdue	Says Jon Ossoff is “a socialist.”	an interview	['Georgia', 'Candidate Biography', 'David Perdue']	0	8	5	5	2	2
+11	fire	Bloggers	Says George Soros was arrested in Philadelphia for election interference.	a blog post	['Elections', 'Facebook Fact-checks', 'Bloggers']	8	18	22	41	154	358
+12	false	Facebook posts	Photo shows Time magazine cover with Barack Obama that says “Treason.”	a Facebook post	['Elections', 'Facebook Fact-checks', 'Bloggers']	8	18	22	41	154	358
+13	fire	Tim Murtaugh	“In Philadelphia and Pittsburgh...682,000 ballots were counted in secret, away from poll watchers who were entitled by law to have access to that count.”	a radio interview.	[]	0	0	0	0	1	1
+14	false	Joe Sanfelippo	“Clerks in Milwaukee and Dane Counties colluded to (add) nearly 250,000 individuals to the ‘Indefinitely Confined’ voter list.”	a news release	['Elections', 'States', 'Wisconsin', 'Joe Sanfelippo']	0	2	0	0	1	1
+15	false	Sidney Powell	"“At least 450,000 ballots in the key states ... miraculously only have a mark for Joe Biden on them, and no other candidate."""	an interview with Fox News	['Arizona', 'Georgia', 'Elections', 'Facebook Fact-checks', 'Wisconsin', 'Pennsylvania', 'Michigan', 'Sidney Powell']	0	0	0	0	1	1
+16	fire	Rudy Giuliani	In Michigan “we have over-votes in numerous precincts of 150%, 200%, and 300%.”	remarks in a press conference	['Elections', 'Michigan', 'Rudy Giuliani']	8	7	10	9	12	7
+17	mostly-false	Joe Biden	"“666,000 teachers have been laid off already since March."""	a virtual roundtable	['Education', 'Coronavirus', 'Joe Biden']	23	41	41	33	31	6
+18	true	Tweets	"When Donald Trump lost the Iowa caucus to Ted Cruz in 2016, ""he immediately cried that Cruz cheated.”"	tweets	['Elections', 'Iowa', 'Tweets']	2	3	4	4	19	15
+19	fire	Viral image	Says Donald Trump’s book “The Art of the Deal” advises: “Never admit defeat. You win. If you don’t win, claim they cheated.”	a Facebook post	['Elections', 'Iowa', 'Tweets']	2	3	4	4	19	15
+20	false	Ron Paul	Says “Biden wants a nationwide lockdown to combat a virus that has a 99%+ survival rate.”	a Twitter post	['Coronavirus', 'Ron Paul']	8	8	8	5	10	3
+21	fire	Donald Trump	"""A day AFTER the election, Biden receives a dump of 143,379 votes at 3:42AM (in Wisconsin), when they learned he was losing badly. This is unbelievable!"""	a tweet	['Coronavirus', 'Ron Paul']	8	8	8	5	10	3
+22	mostly-true	Lyle Larson	Says there’s “up to 75% reduction in opioid dosage for medical cannabis users.”	a tweet	['Public Health', 'Texas', 'Marijuana', 'Lyle Larson']	0	1	0	0	0	0
+23	full-flop	Ron Johnson	On the need for a smooth transition for the president-elect	interviews	['Elections', 'Wisconsin', 'Ron Johnson']	8	16	13	19	8	1
+24	half-true	Raphael Warnock	"Says Kelly Loeffler is ""for getting rid of health care in the middle of a pandemic."""	an ad	['Georgia', 'Public Health', 'Coronavirus', 'Raphael Warnock']	1	0	2	0	0	0
+25	mostly-false	Jon Ossoff	“David Perdue says he'll do everything in his power to make sure Joe Biden fails.”	an ad	['Georgia', 'Negative Campaigning', 'Jon  Ossoff']	0	2	2	1	0	0
+26	fire	Facebook posts	“AARP endorsed Biden” and “says if you are past 75 you should just die and go away.”	a Facebook post	['Georgia', 'Negative Campaigning', 'Jon  Ossoff']	0	2	2	1	0	0
+27	fire	Sidney Powell	“Smartmatic and Dominion systems ... were built to do this very thing, for changing the results of elections.”	an interview with Mark Levin	['Georgia', 'Negative Campaigning', 'Jon  Ossoff']	0	2	2	1	0	0
+28	mostly-true	Joe Biden	The law governing the transition of presidential power “doesn’t require there to be an absolute winner. It says the ‘apparent' winner.”	a roundtable with healthcare workers	['Georgia', 'Negative Campaigning', 'Jon  Ossoff']	0	2	2	1	0	0
+29	fire	Donald Trump	A 1993 example of voter fraud in Philadelphia is “exactly what happened to us” in the 2020 election.	a tweet	['Georgia', 'Negative Campaigning', 'Jon  Ossoff']	0	2	2	1	0	0
